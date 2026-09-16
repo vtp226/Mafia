@@ -1,0 +1,8 @@
+.git
+.gitignore
+data/
+*.sqlite
+.env
+README.md
+__pycache__/
+*.pyc
